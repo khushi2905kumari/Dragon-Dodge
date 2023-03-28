@@ -25,7 +25,7 @@ This game also has an **engaging soundtrack** that will keep you entertained as 
 
 - Clone the repository to your local machine:
 
-      git clone https://github.com/khushi2905kumari/dragon-jumper.git
+      git clone https://github.com/khushi2905kumari/Dragon-Jumper.git
       
 - Open the index.html file in your web browser.
 - Refresh the website to start playing the game.
